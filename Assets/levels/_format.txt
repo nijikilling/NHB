@@ -1,0 +1,22 @@
+Example:
+12 12 2
+************
+*..........*
+*.S......S.*
+*....BB....*
+*..........*
+*.B......B.*
+*.B......B.*
+*..........*
+*....BB....*
+*.S......S.*
+*..........*
+************
+
+* - blocks
+. - empty cells
+S - spawn, where all the players may spawn. What to do with inside-spawning?
+B - bonus spawns. Maybe:create SuperBonus camp(with awesome deathful magic!)
+-Player's "rounding" diameter and block width/height are equivalent
+-Need really great map for fights! for 2 players: 12x12. for 4 players: 20x20(!). Gotta create bossArena later
+ 
